@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Helllp React
-          my name is farhan ahmed
+          my name is farhan ahmed ok
         </a>
       </header>
     </div>
